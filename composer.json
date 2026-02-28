@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\\\": "app/",
+            "App\\Core\\": "app/Core/",
+            "App\\Models\\": "app/Models/",
+            "App\\Controllers\\": "app/Controllers",
+            "App\\Helpers\\": "app/Helpers"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "5.3.3",
+        "twbs/bootstrap-icons": "^1.11"
+    }
+}
